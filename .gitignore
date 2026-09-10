@@ -1,0 +1,6 @@
+/outputs/
+/hermes-home/
+/runtime-user/
+/vault/
+.env
+.env.*
