@@ -1,0 +1,29 @@
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Arquivos de transcrição gerados
+transcricao_*.md
+
+# Arquivos de áudio temporários
+temp_audio_*.mp3
+temp_audio_*.m4a
+temp_audio_*.wav
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# API Keys
+.env
